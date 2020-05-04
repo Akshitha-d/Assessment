@@ -1,0 +1,7 @@
+1. Tuples are immutable.
+    True       
+    False
+
+2. Dictionaries are immutable.
+    True       
+    False
